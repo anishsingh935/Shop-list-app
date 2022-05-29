@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sahji",
+      "category":"hybrid",
+      "address": "Kulas Light",
+      "date":"28/05/2022"
+    },
+    {
+      "id": 2,
+      "name": "Sahji",
+      "category":"hybrid",
+      "address":"Kulas Light",
+      "date":"28/05/2022"
+    },
+    {
+      "id": 3,
+      "name": "Sahji",
+      "category":"hybrid",
+      "address":"Kulas Light",
+      "date":"28/05/2022"
+    }
+    
+    
+  ]
+}
